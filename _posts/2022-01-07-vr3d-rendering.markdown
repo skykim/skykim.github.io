@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2022-01-07
-img: vr3d_renderin.png
+img: vr3d_rendering.png
 alt: image-alt
 project-date: 2020~Present
 client: Private
