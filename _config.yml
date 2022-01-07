@@ -48,7 +48,7 @@ address:
   - line: where x is loenahmik
 
 # Credits content
-credits: 'Jan 7th, 2022'
+credits: 'January 2022'
 
 # Build settings
 markdown: kramdown
