@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2022-01-07
+date: 2022-01-02
 img: sensor_and_application.png
 alt: image-alt
 project-date: 2020~Present
