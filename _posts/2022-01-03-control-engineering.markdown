@@ -14,9 +14,4 @@ CEMTool의 웹기반의 CLI 서비스를 새로 개발하였고, 모델 기반�
 소프트웨어의 개발과 패키징, 매뉴얼 자료작성, 논문작성, 외부교육까지 모두 담당하였습니다.
 2년간 5명의 팀원들을 리드하며 다양한 국책과제들을 수행하였습니다.
 
-<iframe src="https://www.youtube.com/embed/sSzPY4y7MOU" frameborder="0" allowfullscreen></iframe><br><br>
-<iframe src="https://www.youtube.com/embed/FmjjkBV7Zq4" frameborder="0" allowfullscreen></iframe><br><br>
-<iframe src="https://www.youtube.com/embed/SwLmb-N9tCg" frameborder="0" allowfullscreen></iframe><br><br>
-<iframe src="https://www.youtube.com/embed/2W0fC443dBg" frameborder="0" allowfullscreen></iframe><br><br>
-
 ---
