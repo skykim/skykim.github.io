@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2013~Present
 client: Company
 category: Artificial Intelligence
-description: <b><u>다중에이전트의 강화학습 알고리즘 개발</u></b><br><br>석사과정에서 강화학습 제어이론에 대해서 연구하였습니다.<br><br>한 대의 로봇에 대한 수렴성이 증명된 Q-learning 알고리즘을 Multi-agent 개념에서의 강화학습 알고리즘을 확장하였고, 해당 알고리즘이 최적의 솔루션에 수렴한다는 내용을 수학적으로 증명하여 논문을 출간하였습니다. <br><br>뿐만 아니라, 해당 이론을 실험으로 진행하여 두 대의 로봇이 거리를 유지하며 원하는 Goal 지점까지 이동하는 Multiagent Q-learning 알고리즘을 성공적으로 구현하였습니다.<br><br>• 개발언어<br>Visual Studio 2005 C/C++, MFC, Pioneer Robot SDK, OpenCV, Ultrasonic Satellite, MATLAB<br><br><img src="rl-robots.png"><br><br><img src="rl-matlab.png"><br><br><img src="rl-exp.png"><br><br>
+description: <b><u>다중에이전트의 강화학습 알고리즘 개발</u></b><br><br>석사과정에서 강화학습 제어이론에 대해서 연구하였습니다.<br><br>한 대의 로봇에 대한 수렴성이 증명된 Q-learning 알고리즘을 Multi-agent 개념에서의 강화학습 알고리즘을 확장하였고, 해당 알고리즘이 최적의 솔루션에 수렴한다는 내용을 수학적으로 증명하여 논문을 출간하였습니다. <br><br>뿐만 아니라, 해당 이론을 실험으로 진행하여 두 대의 로봇이 거리를 유지하며 원하는 Goal 지점까지 이동하는 Multiagent Q-learning 알고리즘을 성공적으로 구현하였습니다.<br><br>• 개발언어<br>Visual Studio 2005 C/C++, MFC, Pioneer Robot SDK, OpenCV, Ultrasonic Satellite, MATLAB<br><br><img src="rl-robots.png"><br><br><img src="rl-matlab.gif"><br><br><img src="rl-exp.gif"><br><br>
 ---
