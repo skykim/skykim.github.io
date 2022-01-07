@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2022-01-07
+date: 2022-01-03
 img: control_engineering.png
 alt: image-alt
 project-date: 2011~2012
