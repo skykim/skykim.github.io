@@ -1,0 +1,22 @@
+---
+layout: default
+modal-id: 7
+date: 2021-12-31
+img: media.png
+alt: image-alt
+project-date: 2022~Present
+category: Media
+description: 
+
+<b><u>매일경제 - [김한얼 유니티코리아 엔지니어 "장애인 재활·자립 돕는 플랫폼 만들 것"] <a href="https://www.mk.co.kr/news/it/view/2022/08/677234/" target=_blank>[링크]</a></u></b><br>
+
+<b><u>심터뷰 - [하루 아침에 모든 걸 포기해야 했다]</u></b><br>
+<iframe src="https://www.youtube.com/embed/2nWjXWDSWrY" frameborder="0" allowfullscreen width="100%" height="300px"></iframe>
+
+<b><u>심터뷰 - [사람을 살리는 기술]</u></b><br>
+<iframe src="https://www.youtube.com/embed/xz4_6JUT1hQ" frameborder="0" allowfullscreen width="100%" height="300px"></iframe>
+
+<b><u>원샷한솔 - 솔터뷰 [하루아침에 하반신마비가 된 이유와 예상 못한 여자친구의 한마디]</u></b><br>
+<iframe src="https://www.youtube.com/embed/1JQ-9smkEAg" frameborder="0" allowfullscreen width="100%" height="300px"></iframe>
+
+---
